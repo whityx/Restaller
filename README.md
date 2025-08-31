@@ -15,19 +15,23 @@
 
 ## Установка
 
-1. Проверьте есть ли у вас winget: (https://github.com/microsoft/winget-cli/releases в случае если нет)
+1. Проверьте есть ли у вас winget: 
 ```bash
 winget
 ```
-2.  Скачайте последний релиз:
+2. В случае если нет
+```bash
+Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+```
+3.  Скачайте последний релиз:
 ```bash
 https://github.com/whityx/Restaller/releases/tag/release
 ```
-3.  Установите зависимости:
+4.  Установите зависимости:
 ```bash
 npm install
 ```
-4.  Запустите приложение:
+5.  Запустите приложение:
 ```bash
 bash npm run make
 ```
