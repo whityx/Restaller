@@ -19,9 +19,9 @@
 ```bash
 winget
 ```
-2.  Клонируйте репозиторий: (перед этим установите GIT) 
+2.  Скачайте последний релиз: (перед этим установите GIT) 
 ```bash
-git clone https://github.com/whityx/restaller.git
+https://github.com/whityx/Restaller/releases/tag/release
 ```
 3.  Установите зависимости:
 ```bash
