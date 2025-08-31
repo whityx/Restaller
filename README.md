@@ -25,7 +25,7 @@ Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller
 ```
 3.  Скачайте последний релиз:
 ```bash
-https://github.com/whityx/Restaller/releases/tag/release
+https://github.com/whityx/Restaller/releases/
 ```
 4.  Установите зависимости:
 ```bash
