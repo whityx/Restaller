@@ -15,15 +15,19 @@
 
 ## Установка
 
-1.  Клонируйте репозиторий: (перед этим установите GIT) 
+1. Проверьте есть ли у вас winget: (https://github.com/microsoft/winget-cli/releases в случае если нет)
+```bash
+winget
+```
+2.  Клонируйте репозиторий: (перед этим установите GIT) 
 ```bash
 git clone https://github.com/whityx/restaller.git
 ```
-2.  Установите зависимости:
+3.  Установите зависимости:
 ```bash
 npm install
 ```
-3.  Запустите приложение:
+4.  Запустите приложение:
 ```bash
 bash npm run make
 ```
