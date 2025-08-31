@@ -19,7 +19,7 @@
 ```bash
 winget
 ```
-2.  Скачайте последний релиз: (перед этим установите GIT) 
+2.  Скачайте последний релиз:
 ```bash
 https://github.com/whityx/Restaller/releases/tag/release
 ```
