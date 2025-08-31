@@ -1,7 +1,7 @@
 # Restaller
 
 ![Restaller Screenshot](https://i.imgur.com/ZnmRD9M.png)
-
+![Restaller Screenshot2](https://i.imgur.com/5UcWFQ6.png)
 Простой интерфейс для `winget`. 
 
 ## Особенности
