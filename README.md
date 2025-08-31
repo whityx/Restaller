@@ -27,7 +27,9 @@ Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller
 ```bash
 https://github.com/whityx/Restaller/releases/
 ```
-4.  Установите зависимости:
+
+## Следующие шаги делайте только в случае если вы не запускаете exe установщик. 
+4.  Установите зависимости: 
 ```bash
 npm install
 ```
